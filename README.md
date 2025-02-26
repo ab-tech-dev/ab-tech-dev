@@ -33,11 +33,8 @@ I’m **Joshua Ability**, a passionate  **Data Scientist and Analyst** and a **B
 - <div align="left">
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/FastAPI-%230092CC.svg?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST%20API-%23FF6F61.svg?style=flat-square&logo=swagger&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
 </div>  
 
 ### 🧠 Data Science & Machine Learning  
