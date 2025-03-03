@@ -2,7 +2,7 @@
 
 # Hi there! 👋 Welcome to My GitHub Profile  
 
-I’m **Joshua Ability**, a passionate  **Data Scientist and Analyst** and a **Backend Developer** dedicated to building scalable web applications, uncovering insights from data, and creating intelligent models to solve real-world problems. My expertise spans backend development, data science, machine learning, and generative AI.  
+I’m **Joshua Ability**, a passionate  **AI/ML Engineer** and a **Backend Developer** dedicated to building scalable web applications, uncovering insights from data, and creating intelligent models to solve real-world problems. My expertise spans backend development, data science, machine learning, and generative AI.  
 
 ---
 
